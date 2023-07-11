@@ -1,2 +1,2 @@
 # learning-web
-pembuatan repositori pemrogaman web
+pembuatan repositori tahapan pembelajaran pemrogaman web
